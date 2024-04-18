@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.app.hepticfeedback.app-mergeDebugResources-39:/layout/item_choose_pattern_custom.xml",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/item_choose_pattern_custom.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-mergeDebugResources-39:/layout/item_choose_pattern.xml",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/item_choose_pattern.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-mergeDebugResources-39:/layout/activity_splash.xml",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-mergeDebugResources-39:/layout/activity_home.xml",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-mergeDebugResources-39:/layout/item_haptics.xml",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/item_haptics.xml"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/raw_animation_player.json.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/raw/animation_player.json"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/layout_item_choose_pattern.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/item_choose_pattern.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/layout_activity_home.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/layout_item_choose_pattern_custom.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/item_choose_pattern_custom.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/layout_activity_splash.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/xml_backup_rules.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.app.hepticfeedback.app-pngs-36:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.app.hepticfeedback.app-merged_res-40:/layout_item_haptics.xml.flat",
+        "source": "com.app.hepticfeedback.app-main-42:/layout/item_haptics.xml"
+    }
+]

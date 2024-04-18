@@ -1,0 +1,3 @@
+com.app.hepticfeedback.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

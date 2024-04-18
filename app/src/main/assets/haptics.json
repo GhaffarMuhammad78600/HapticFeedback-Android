@@ -1,0 +1,121 @@
+{
+  "hapticEffects": [
+    {
+      "effect_id": "WAVEFORM",
+      "description": "waveform effects, time and amplitude pairs",
+      "amplitude": [
+        33,
+        51,
+        75,
+        113,
+        170,
+        255,
+        0,
+        38,
+        62,
+        100,
+        160,
+        255
+      ],
+      "timing": [
+        50,
+        50,
+        50,
+        50,
+        50,
+        100,
+        350,
+        25,
+        25,
+        25,
+        25,
+        200
+      ],
+      "time_start": 0
+    },
+    {
+      "effect_id": "EFFECT_TICK",
+      "description": "effect tick",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 1200
+    },
+    {
+      "effect_id": "EFFECT_CLICK",
+      "description": "effect click",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 1300
+    },
+    {
+      "effect_id": "EFFECT_HEAVY_CLICK",
+      "description": "effect heavy click",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 1400
+    },
+    {
+      "effect_id": "EFFECT_DOUBLE_CLICK",
+      "description": "effect double click",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 1500
+    },
+    {
+      "primitive_id": "PRIMITIVE_CLICK",
+      "description": "primitive click",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 1600
+    },
+    {
+      "primitive_id": "PRIMITIVE_THUD",
+      "description": "primitive thud",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 2000
+    },
+    {
+      "primitive_id": "PRIMITIVE_SPIN",
+      "description": "primitive spin",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 2500
+    },
+    {
+      "primitive_id": "PRIMITIVE_QUICK_RISE",
+      "description": "primitive that rises quick",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 3500
+    },
+    {
+      "primitive_id": "PRIMITIVE_SLOW_RISE",
+      "description": "primitive that rises slowly",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 4500
+    },
+    {
+      "primitive_id": "PRIMITIVE_QUICK_FALL",
+      "description": "primitive that falls quickly",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 5500
+    },
+    {
+      "primitive_id": "PRIMITIVE_TICK",
+      "description": "primitive tick",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 6500
+    },
+    {
+      "primitive_id": "PRIMITIVE_LOW_TICK",
+      "description": "primitive low tick",
+      "amplitude": 1.0,
+      "timing": [],
+      "time_start": 6700
+    }
+  ]
+}
